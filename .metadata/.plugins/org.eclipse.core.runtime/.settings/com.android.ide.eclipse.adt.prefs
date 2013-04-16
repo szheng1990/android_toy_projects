@@ -1,0 +1,5 @@
+com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.previews=default
+com.android.ide.eclipse.adt.sdk=C\:\\urop\\android_dev_environment\\android-sdk-windows
+com.android.ide.eclipse.adt.xmlEditor=true
+eclipse.preferences.version=1
